@@ -15,7 +15,7 @@ _La impresora 3d "target" tiene las siguientes modificaciones básicas con respe
 
 ### Particularidades de cada firmware (La calibración variará en otras máquinas) 🚀
 
-_ Klipper_
+_Klipper_
 
 * Pressure advance activado.
 
@@ -25,7 +25,7 @@ _ Klipper_
 
 * PID calibrado.
 
-_ Marlin_
+_Marlin_
 
 * Linear advance activado.
 
