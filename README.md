@@ -9,7 +9,7 @@ _La impresora 3d "target" tiene las siguientes modificaciones básicas con respe
 
 * Extrusora BMG clon.
 
-* Hotend con ventilación extra.
+* Hotend stock con ventilación extra.
 
 * Boquilla con mecanizado superior.
 
