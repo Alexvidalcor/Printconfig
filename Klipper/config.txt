@@ -38,9 +38,10 @@ enable_pin: !ar12
 step_distance: 0.002409638554216
 nozzle_diameter: 0.400
 filament_diameter: 1.750
-max_extrude_only_accel:700
-pressure_advance: 0.8
+max_extrude_only_accel:600
+#pressure_advance: 0.8
 #pressure_advance_smooth_time: 0.1
+
 
 # The remaining variables describe the extruder heater.
 heater_pin: ar10
@@ -78,7 +79,7 @@ pin_map: arduino
 [printer]
 kinematics: cartesian
 max_velocity: 300
-max_accel: 4000
+max_accel: 2500
 max_z_velocity: 5
 max_z_accel: 100
 #max_accel_to_decel: 7000
@@ -95,13 +96,13 @@ d7_pin: ar36
 encoder_pins: ^ar40, ^ar42
 click_pin: ^!ar19
 
-[firmware_retraction]
-retract_length: 3
-retract_speed: 40
-unretract_speed: 30
+#[firmware_retraction]
+#retract_length: 3.2
+#retract_speed: 40
+#unretract_speed: 30
 #unretract_extra_length: 0
 
 [input_shaper]
-shaper_freq_x: 45.73
+shaper_freq_x: 37.41
 shaper_freq_y: 50
 shaper_type: mzv
