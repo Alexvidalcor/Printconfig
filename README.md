@@ -1,38 +1,38 @@
-# Configuraciones para Geeetech A10 V3
+# Settings for Geeetech A10 V3
 
 
-### Modificaciones básicas preestablecidas📋
+### Preset Basic Mods📋
 
-_La impresora 3d "target" tiene las siguientes modificaciones básicas con respecto a la versión stock:_
+_The "target" 3d printer has the following basic modifications compared to the stock version:_
 
-* Sistema Bowden con tubo de teflón Capricorn completo.
+* Bowden system with full Capricorn teflon tube.
 
-* Extrusora BMG clon.
+* BMG clone extruder.
 
-* Hotend stock con ventilación extra.
+* Hotend stock with extra ventilation.
 
-* Boquilla con mecanizado superior.
+* Nozzle with superior machining.
 
-* Placa controladora GT2560 V3.
+* GT2560 V3.
 
-* Drivers TMC2208.
+* TMC2208 drivers.
 
-### Particularidades de cada firmware (La calibración variará en otras máquinas) 🚀
+### Particularities of each firmware (Calibration will vary on other machines) 🚀
 
 _Klipper:_
 
-* Pressure advance activado.
+* Pressure advance activated.
 
-* Input shaper activado.
+* Input shaper enabled.
 
-* Aceleraciones afinadas.
+* Tuned accelerations.
 
-* PID calibrado.
+* PID calibrated.
 
 _Marlin:_
 
-* Linear advance activado.
+* Linear advance enabled.
 
-* S-Curve activado.
+* S-Curve activated.
 
-* Experimental S-Curve para linear advance activado.
+* Experimental S-Curve for linear advance enabled.
