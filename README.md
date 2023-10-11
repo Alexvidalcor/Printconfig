@@ -1,8 +1,10 @@
 # Settings for Geeetech A10 V3
 
+
 <br><kbd>
-![image](https://github.com/Alexvidalcor/Printconfig/assets/58011097/1a7dcf95-608b-4437-b00e-604efceade0f)
-</br></kbd>
+<br><img src="https://github.com/Alexvidalcor/Printconfig/assets/58011097/1a7dcf95-608b-4437-b00e-604efceade0f" width="300" />
+</kbd><br>
+
 
 ### Preset Basic Mods 📋
 
